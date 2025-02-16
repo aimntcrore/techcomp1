@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: TECHCOMP
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: תמיכה טכנית וטיפול בתקלות
     text: |2+
