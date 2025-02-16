@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ברוכים הבאים ל
+      text: TECHCOMP
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
