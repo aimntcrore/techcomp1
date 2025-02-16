@@ -32,7 +32,9 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/logomakerca-17326963132731335801649059525475-1024x1024-1-768x768-removebg-preview
+        (1).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
