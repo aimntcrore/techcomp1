@@ -7,7 +7,7 @@ sections:
       text: TECHCOMP
       color: text-neutral
       type: TitleBlock
-    subtitle: תמיכה טכנית וטיפול בתקלות
+    subtitle: ''
     text: |2+
         <h2 style="font-size: 36px; color: #f39c12; font-weight: bold; margin-bottom: 20px;">תמיכה טכנית וטיפול בתקלות</h2>
        
