@@ -8,17 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: תמיכה טכנית וטיפול בתקלות
-    text: >+
-      <section style="background-color: #1f3a64; padding: 60px 20px; text-align:
-      center; border-radius: 8px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-      animation: fadeIn 2s;">
+    text: |2+
+
         <h2 style="font-size: 36px; color: #f39c12; font-weight: bold; margin-bottom: 20px;">תמיכה טכנית וטיפול בתקלות</h2>
         <p style="font-size: 18px; color: #ecf0f1; line-height: 1.6; max-width: 800px; margin: 0 auto;">
           אנו מציעים פתרונות מהירים ומקצועיים לכל סוגי התקלות – בעיות חומרה, תוכנה, רשתות ותחומים נוספים. שירות אישי, מקצועי ומהיר שיעזור לך לחזור לעבודה במהרה.
         </p>
       </section>
-
-
 
     actions:
       - label: Get started
